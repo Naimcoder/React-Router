@@ -1,0 +1,14 @@
+.navbar {
+     margin-top: 20px;
+}
+.navbar a{
+     margin-left: 20px;
+     padding: 4px;
+     text-decoration: none;
+}
+.navbar a:hover{
+     color: orange;
+}
+.active{
+     background-color: coral;
+}
